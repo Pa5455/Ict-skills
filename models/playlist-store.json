@@ -1,0 +1,67 @@
+{
+  "playlistCollection": [
+    {
+      "id": "01",
+      "title": "Beethoven Sonatas",
+      "songs": [
+        {
+          "title": "Piano Sonata No. 3",
+          "artist": "Beethoven",
+          "duration": "1.31"
+        },
+        {
+          "title": "Piano Sonata No. 7",
+          "artist": "Beethoven",
+          "duration": "1.42"
+        },
+        {
+          "title": "Piano Sonata No. 10",
+          "artist": "Beethoven",
+          "duration": "5.01"
+        }
+      ]
+    },
+    {
+      "title": "Beethoven Concertos",
+      "songs": [
+        {
+          "title": "Piano Concerto No. 0",
+          "artist": "Beethoven",
+          "duration": "1.51"
+        },
+        {
+          "title": "Piano Concerto No. 4",
+          "artist": "Beethoven",
+          "duration": "1.10"
+        },
+        {
+          "title": "Piano Concerto No. 6",
+          "artist": "Beethoven",
+          "duration": "3.31"
+        }
+      ]
+    },
+      {
+      "title": "Curran",
+      "songs": [
+        {
+          "title": "My song No. 0",
+          "artist": "Myself",
+          "duration": "1.54"
+        },
+        {
+          "title": "My Song No. 4",
+          "artist": "Myself",
+          "duration": "0.55"
+        },
+        {
+          "title": "My Song No. 6",
+          "artist": "Myself",
+          "duration": "4.15"
+        }
+      ]
+    }
+    
+    
+  ]
+}
